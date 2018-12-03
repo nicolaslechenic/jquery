@@ -1,7 +1,7 @@
 - Faire des binômes
 - Créer un repository pour deux
 - Décomposer en tickets
-- Envoyer un README sur une branche master qu'il faudra maintenir
+- Envoyer un README sur une branche master qu'il faudra maintenir ([Example de README](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2))
 - Faire une branche 'searchbar' et une autre 'simon'
 - Deux pull requests avant la pause repas
 - Relecture de code et approbation
